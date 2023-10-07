@@ -1,0 +1,16 @@
+body{
+    background-color: #FFFACD;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
+img{
+    width: 150px;
+    height: auto;
+}
+th,td,table{
+    border: solid 5px #ff5f00;
+    border-collapse: collapse;
+}
+caption{
+    font-size: 30px;
+}
