@@ -1,0 +1,28 @@
+.must{
+    background-color: red;
+    font-size: 10px;
+    border-radius: 6px;
+    color: white;
+}
+.font{
+    font-size: 10px;
+    color: white;
+}
+.title{
+    color: white;
+}
+th{
+    text-align: left;
+    vertical-align: top;
+    background-color: #808080;
+}
+td{
+    background-color: #c0c0c0;
+}
+button{
+    width: 300px;
+    padding: 10px;
+}
+th,td{
+    padding: 20px;
+}
