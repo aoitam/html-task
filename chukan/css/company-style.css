@@ -1,0 +1,48 @@
+ol li{
+    color: aliceblue;
+}
+
+
+
+main {
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+h2 {
+    color: #3498db; 
+    text-decoration: underline 2px;
+    text-decoration-color: aquamarine;
+}
+
+ul li {
+    margin-bottom: 10px;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+main ul li a:hover {
+    text-decoration: underline; 
+}
+.mokuji{
+    border: #333333 solid;
+    width: 500px;
+}
+main a h1 {
+text-decoration: none;
+}
+
+.company-item p a{
+    color: #3498db;
+}
+
+.company-item p a:hover{
+    color: blue;
+    text-decoration: underline;
+}

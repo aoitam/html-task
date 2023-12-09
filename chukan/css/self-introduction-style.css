@@ -1,0 +1,36 @@
+/*記述済みの部分は変更しないでください！*/
+
+@charset "utf-8";
+
+.mark-list {
+    list-style: "★";
+}
+
+ol li{
+    color: aliceblue;
+}
+
+main {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+  }
+  
+  .mark-list li {
+    font-weight: bold;
+    margin-top: 10px;
+  }
+  
+  .mark-list p {
+    margin-bottom: 15px;
+  }
+  
+  .mark-list img {
+    max-width: 100%;
+    height: auto;
+    margin-top: 15px;
+    border: 1px solid #ccc;
+    box-shadow: 2px 2px 5px #888888;
+  }

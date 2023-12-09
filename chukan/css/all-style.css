@@ -1,0 +1,71 @@
+header {
+    background-color: #3498db;
+    padding: 15px;
+    font-family: "MS Mincho", "Hiragino Mincho ProN", serif;
+}
+
+header h1 {
+    margin: 0px;
+    font-size: 32px;
+    color: white;
+    text-align: center;
+}
+
+nav {
+    margin-top: 10px;
+}
+
+nav ul {
+    list-style: none;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 15px;
+    text-align: center;
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+nav a:hover {
+    text-decoration: none;
+}
+
+.breadcrumbs {
+    list-style: none;
+    padding: 0px;
+    margin: 10px;
+}
+
+.breadcrumbs li {
+    display: inline;
+    margin-right: 5px;
+}
+
+.breadcrumbs a {
+    text-decoration: none;
+    color: #b0c4de;
+}
+
+.breadcrumbs a:hover {
+    text-decoration: underline;
+}
+
+body{
+    background-color: #ecf0f1;
+    color: #333333;
+    padding: 0;
+    margin: 0;
+}
+
+img {
+    width: 70%;
+    max-width: 70%; /* 画像の元の幅を超えないように設定 */
+    height: auto; /* アスペクト比を維持 */
+}
