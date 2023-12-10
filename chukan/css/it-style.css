@@ -22,7 +22,7 @@ th, td {
     text-align: left;
 }
 
-tbody tr:nth-child(even) {  /*偶数行目の背景色変更*/
+tbody tr:nth-child(even) { 
     background-color: #f2f2f2;
 }
 
