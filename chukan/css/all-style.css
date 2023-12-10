@@ -66,6 +66,6 @@ body{
 
 img {
     width: 70%;
-    max-width: 70%; /* 画像の元の幅を超えないように設定 */
-    height: auto; /* アスペクト比を維持 */
+    max-width: 70%; 
+    height: auto;
 }
