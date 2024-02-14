@@ -1,0 +1,43 @@
+body {
+    background-attachment: fixed;
+    font-family: serif;
+}
+
+header{
+    text-align: right;
+    
+}
+
+header ul {
+    list-style: none;
+    display: flex;
+    justify-content: flex-end;
+}
+
+header li {
+    margin-right: 20px; /* リンク間の余白 */
+}
+
+header a {
+    text-decoration: none;
+    color: black; /* リンクの文字色 */
+    font-weight: bold; /* リンクの太字 */
+}
+
+/* カラムの設定 */
+.container {
+    display: flex;
+  }
+  
+  .widget {
+    width: 200px;
+    background-color: #333;
+    color: white;
+    padding: 20px;
+  }
+  
+  .content {
+    flex: 1;
+    padding: 20px;
+  }
+  /* ここまで */
